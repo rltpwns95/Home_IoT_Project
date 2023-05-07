@@ -1,0 +1,1252 @@
+# ninja log v5
+246	316	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/uart2.xcl	680634b98ef719cf
+4	74	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/misc.xcl	6c10b140442475ee
+4	145	6999477150915616	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	9f5b24545de17bb8
+175	247	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/adc1.xcl	1a57cd8fc9e01c06
+10	84	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	5e5e3486b4640027
+230	376	6998750583674670	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	9b38ad17cf375835
+1	78	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	84e0fc95f9c2524e
+7	82	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	33c2a6f00194f1cf
+313	335	6999387126112222	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	baa1b9227ea851b9
+79	143	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	65bd1c1ee0f3e367
+75	146	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	75728fd225ff5e39
+970	1111	6999558514682059	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/uart2.pbi	59dedb8a6704a3c3
+304	394	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim1_counter.xcl	7e1abdd0588922fd
+172	250	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	e96a230476147aa9
+2	143	6999557067781969	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/main.pbi	eb7a6a050e9d6608
+284	451	6999558508096629	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/key.pbi	e83bc439a37ef492
+82	151	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	345e3b1d6796c50d
+144	221	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	cc8e39014f552360
+85	154	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	158d0ee786cdde59
+147	189	6998750581826825	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	f616766746b1dade
+151	230	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/tim7_fnd.xcl	9fa9667d5e42b9da
+379	982	6998787531522495	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2.pbw	588de50d5fb6fbfc
+154	234	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/adc1.xcl	cac5ff9c0296f351
+6	144	6999477099080632	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	9bfaa8efc24748b2
+1	127	6999433444957944	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/uart2.pbi	8e4e1ad1e7bb28f7
+189	270	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/uart2.xcl	b310a570cde2c05e
+16	99	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	c96ca3a6d023b611
+11	86	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	b5bb0c3a53c2e707
+221	291	6998750580000000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/main.xcl	6e673beb6699f970
+235	393	6998750583875259	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	4b2595b689b76930
+291	429	6998750584274868	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/misc.pbi	81df82e5750a5c47
+102	175	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	e4460d6d8399d3d0
+897	1036	6999558514048278	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim10_motor.pbi	976fbd320e35efc
+99	184	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/main.xcl	18b3e5fc66363b39
+271	406	6998750583975277	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	9fa21b187383d972
+407	643	6998750586370375	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	adbd631bc6c31914
+394	532	6998750585174181	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	494648031518bf6c
+1	130	6999515958811909	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/adc1.pbi	b708ffab91ca1318
+2	131	6998787523211954	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/adc1.pbi	390db5f3ebea77c6
+377	624	6998750586214132	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	d6eaaa8cc89428bc
+10	148	6999477099080632	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/misc.pbi	7ce373c98c9c134b
+1	136	6998787412620150	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/main.pbi	e4929a72a48aab04
+563	697	6998750586856561	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	1ff1d40ae9559f88
+625	757	6998750587507170	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/tim7_fnd.pbi	98f1c1657f11c2c0
+643	778	6998750587760677	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/uart2.pbi	c3c56b2bcb4e8cb1
+672	781	6998750587790594	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2_part0.pbi	fa2978eb523ca7fd
+1	133	6999559987474229	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim1_counter.pbi	cff1315a512652ac
+779	826	6998750588132000	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2_part3.pbi	ef58f82109c9398f
+275	403	6999557070242750	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2.pbd	956c5abdbe07462
+698	834	6998750588285672	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2_part1.pbi	b52483d2e82fded
+133	262	6998787524460894	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2_part2.pbi	a616182560ee1bc1
+265	378	6998787525661898	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter_adc1_vres/Debug/BrowseInfo/sampleUart2.pbd	8910b94e51fa185a
+242	305	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/uart2.xcl	54e65cf2d2d61d8e
+19	95	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	cfaaf4906747b6b5
+22	102	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	43f1bcd960ade5ff
+278	412	6999477153590978	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim7_fnd.pbi	ceee5dc12aeab06a
+86	164	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	7ff9e128b9bf9c0
+404	1019	6999557076286859	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2.pbw	6d91d2182bf13724
+96	172	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/misc.xcl	8f520b2cb44e8249
+164	242	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	b8324e961fd13d41
+250	313	6999387120000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim7_fnd.xcl	5f35fa30d8754ac5
+8	151	6999477099080632	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	155e204c2b3fd66f
+1	137	6999477150915616	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	602cb27db81f1f5e
+9	152	6999477151071310	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	d87e4d17a9810eb1
+142	293	6999477152399866	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	ab8e85828a8babbb
+154	288	6999477152399866	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	924278d903af6406
+294	396	6999477153485920	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2_part0.pbi	ad5d0c65f17e357c
+133	265	6999515960240038	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2_part2.pbi	285a15814995c081
+397	524	6999477154777757	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2_part1.pbi	e033e6dad4c9083a
+146	274	6999557069065859	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2_part3.pbi	1b4709c4266e8055
+2	65	6999435460000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/uart4.xcl	d834b264b3f15c23
+289	422	6999477153747837	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/uart4.pbi	8e2c08b205df2264
+1	66	6999457850000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/key.xcl	54fb02fe3ce5d09f
+2	137	6999512675622989	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/key.pbi	f46ee9628c476d12
+1	67	6999477090000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	e4489017063d4311
+139	271	6999477152243619	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	aea3fb6d4d40402d
+1	70	6999531060000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim10_motor.xcl	7d177e93583bac44
+5	73	6999531060000000	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim1_counter.xcl	59480502872b8984
+7	87	6999531069894390	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/sampleUart2_part4.pbi	2268437e804a1b39
+1	132	6999532855093189	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim10_motor.pbi	23bd5aa09e21cc71
+1	131	6999556402310920	C:/Users/KCCI/Documents/iar/sampleUart2_project/Debug/BrowseInfo/tim1_counter.pbi	bda478775053eac4
+1	80	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	4c41fd953ab08e43
+5	93	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	a097785aec251878
+12	98	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/misc.xcl	f4d8c6d13ac47e81
+7	136	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	797503158c3f6f01
+81	158	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	2e12f35cd730192b
+93	162	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	7895517e7963aed6
+99	170	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	1a715d830d5fbc8d
+2	60	6999568470000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/lcd.xcl	62cea51c2394e508
+136	216	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	a819d51a9f93d0c2
+158	230	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	e0d31b0b7bdcaa59
+171	245	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/adc1.xcl	7cacfc7cec87428a
+163	248	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	588b826c84906b4e
+216	284	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/key.xcl	6d85bf616f4e5e14
+231	304	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/main.xcl	3327d2dbfe75c19b
+248	326	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/uart4.xcl	8d138c4057c56ef1
+317	401	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim7_fnd.xcl	bd05141536cdafe6
+327	413	6999558500000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim10_motor.xcl	40610eec0140b1fe
+413	551	6999558509095612	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	1ebe94ca79f27f2c
+394	630	6999558510002235	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/misc.pbi	2d75b477d1fc90ef
+401	654	6999558510253548	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	65b1d730886ab54f
+655	677	6999558510409759	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	901a3d7a1cf1aac
+552	689	6999558510565968	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	aa011941649a7811
+451	697	6999558510679528	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	85fcd8fdfeeaaecc
+631	765	6999558511334641	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/uart4.pbi	5cd94ac1c6128435
+678	817	6999558511803300	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	4aff47c6c288dd56
+697	827	6999558511984619	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	c5f0a8ea6e544144
+765	896	6999558512621611	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/adc1.pbi	462277b0449e0c4a
+690	938	6999558512994115	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	ae8ff7c4b3a70dce
+817	969	6999558513392053	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	cf4a6e7624f4b173
+1	147	6999605523597957	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/main.pbi	8224ae7e1bca19d2
+2	101	6999593994594154	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part4.pbi	ba4a3d944aeec9eb
+1093	1198	6999558515649058	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part0.pbi	4100f2820e03b491
+1079	1215	6999558515805350	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part2.pbi	37c6ba4b1d9a9b7c
+3	149	6999592825219543	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/tim7_fnd.pbi	15bdd642936c06f5
+1186	1314	6999558516825631	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part1.pbi	33fe27aedbb06e9b
+148	277	6999605525001106	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part3.pbi	c3fb95ddf7794733
+278	411	6999605526281280	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbd	edf2d72b0d9be5d3
+413	1043	6999605532502427	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbw	1196fa8151b007fa
+1	132	6999573205891861	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/lcd.pbi	8ad590ff62f58ee2
+1	62	6999590020000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/led.xcl	e482e34cb48946f0
+1	132	6999592613308524	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/led.pbi	6db8c60a473cf6fb
+2	149	6999606591851447	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/main.pbi	8224ae7e1bca19d2
+150	280	6999606593144649	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part3.pbi	c3fb95ddf7794733
+282	415	6999606594544771	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbd	edf2d72b0d9be5d3
+418	1039	6999606600541454	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbw	1196fa8151b007fa
+2	146	6999607508725875	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/main.pbi	8224ae7e1bca19d2
+146	273	6999607510021946	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part3.pbi	c3fb95ddf7794733
+276	406	6999607511379006	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbd	edf2d72b0d9be5d3
+2	609	6999607569037806	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbw	1196fa8151b007fa
+2	137	6999610190164388	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/uart4.pbi	5cd94ac1c6128435
+138	239	6999610191160510	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part4.pbi	ba4a3d944aeec9eb
+241	369	6999610192496240	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbd	edf2d72b0d9be5d3
+370	996	6999610198582459	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbw	1196fa8151b007fa
+1	143	6999611309017915	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/main.pbi	8224ae7e1bca19d2
+144	271	6999611310267021	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2_part3.pbi	c3fb95ddf7794733
+272	402	6999611311568957	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbd	edf2d72b0d9be5d3
+403	1027	6999611317523904	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/BrowseInfo/sampleUart2.pbw	1196fa8151b007fa
+1	77	6999631040000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/misc.xcl	a14dafc640332b56
+12	82	6999631040000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	1352daa0b7be9b70
+8	85	6999631040000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	6c05295c57fc0e40
+5	97	6999631040000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	56285bae1802b861
+82	154	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	5a70bfcf08efe7ff
+78	157	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	1aece81c7d03222a
+85	162	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	3afb8eafb7bfe130
+97	168	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	f7a5e0267987d61f
+155	223	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	6bc55d61b6bb4c47
+158	241	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/key.xcl	999a32ce11b924f9
+163	244	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/lcd.xcl	9522972363024646
+168	247	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	504b702df25ec252
+224	306	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/adc1.xcl	434e55a6849591fb
+245	335	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/tim10_motor.xcl	2972af50a7d3d35a
+248	343	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/tim1_counter.xcl	d12217906b2f304e
+242	357	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/uart2.xcl	a6681ca064a226fc
+307	389	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.xcl	539c3d115ad76340
+343	402	6999631052826736	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	f02e74929a81af9b
+335	418	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/led.xcl	93a74e7f442d3788
+389	450	6999631050000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/uart4.xcl	25652aaf58cfd1cd
+357	523	6999631054036970	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	7184b562d6a59f0d
+403	547	6999631054280971	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/adc1.pbi	4d73211c9c3a601
+418	556	6999631054368813	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	f218c445329e34ee
+451	584	6999631054642092	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/misc.pbi	4e377dfdf83d66bb
+557	690	6999631055706517	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/tim1_counter.pbi	918963345d942d3a
+584	719	6999631055999370	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	dc7cff74c0e99155
+523	763	6999631056428171	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	72a59c65e9ea4b50
+548	792	6999631056720974	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	817fcac7fcdd584a
+691	842	6999631057229008	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	c284279d5fd8eca8
+720	859	6999631057394412	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	d06201e57d09b609
+764	898	6999631057784813	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	53087f1c08096d23
+844	977	6999631058575375	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/key.pbi	45079eb9bbfc306
+859	994	6999631058741300	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/led.pbi	4e0e374749569f9f
+898	1034	6999631059151217	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/tim10_motor.pbi	e6fcc9f02a7ea558
+792	1044	6999631059248820	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+978	1112	6999631059932018	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/lcd.pbi	ec9f3d31c2743b32
+994	1132	6999631060136980	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part2.pbi	b03640708bc21252
+1035	1167	6999631060488343	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part1.pbi	6f325d2792295814
+1044	1180	6999631060605458	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/uart4.pbi	95a3f3bbc6cd913e
+1133	1237	6999631061191643	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part0.pbi	ce2cce98fcae2a9a
+1113	1247	6999631061269147	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/uart2.pbi	152dfcd7af08708d
+1167	1296	6999631061777238	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+1248	1346	6999631062274427	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part4.pbi	e4b902bd11d0fc3a
+1347	1477	6999631063582804	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+1478	2116	6999631069779879	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	146	6999633938263884	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+147	274	6999633939552799	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+277	409	6999633940909439	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+411	1026	6999633946872218	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	146	6999634149910385	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+148	274	6999634151217630	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+276	406	6999634152545573	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+408	1031	6999634158557160	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	143	6999634663101798	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+146	269	6999634664370540	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+272	397	6999634665649130	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+398	1016	6999634671631336	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	146	6999635427511951	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+147	271	6999635428780753	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+272	402	6999635430088597	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+404	1045	6999635436316134	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	144	6999637601233636	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+146	269	6999637602492609	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+271	394	6999637603751722	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+396	1001	6999637609617581	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	145	6999638919178903	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+146	269	6999638920438594	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+271	395	6999638921706745	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+397	1004	6999638927552995	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	148	6999639835621508	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+149	276	6999639836919529	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+278	404	6999639838207629	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+406	1022	6999639844164440	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	146	6999640198127100	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+147	272	6999640199405662	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+273	409	6999640200781823	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+412	1031	6999640206765292	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	148	6999640813566252	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+150	272	6999640814816178	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+274	401	6999640816113617	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+403	1017	6999640822057977	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	145	6999642533984665	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+147	269	6999642535243126	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+271	397	6999642536521690	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+399	1013	6999642542475299	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	155	6999642745543249	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+156	281	6999642746821364	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+283	409	6999642748099926	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+410	1044	6999642754238975	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	146	6999642856604432	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+148	272	6999642857882992	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+274	400	6999642859161555	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+401	1012	6999642865067019	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	149	6999642917210676	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+151	272	6999642918460020	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+274	400	6999642919738589	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+402	1017	6999642925701303	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	150	6999643178899698	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+152	278	6999643180178262	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+279	409	6999643181495864	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+411	1027	6999643187468991	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	148	6999646156835349	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+150	278	6999646158146019	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+280	411	6999646159471140	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+413	1044	6999646165596756	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	150	6999646921762053	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+150	278	6999646923056921	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+279	408	6999646924355086	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+409	1029	6999646930354197	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	146	6999647334502299	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+148	274	6999647335800977	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+276	407	6999647337124211	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+408	1035	6999647343191441	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	143	7000201869052997	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+144	299	7000201870615556	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+301	458	7000201872177412	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+460	1076	7000201878113132	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	141	7000202283018144	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+143	267	7000202284267713	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+268	394	7000202285517497	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+395	1007	7000202291453002	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	131	7000203199868862	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/lcd.pbi	ec9f3d31c2743b32
+134	257	7000203201118564	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+258	384	7000203202524497	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+386	995	7000203208304578	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	148	7000204066736248	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+149	275	7000204067985443	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+277	408	7000204069391879	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+409	1027	7000204075328043	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	143	7000204228260728	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+145	269	7000204229509786	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+271	404	7000204230916297	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+405	1019	7000204236852016	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	131	7000204390024241	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/lcd.pbi	ec9f3d31c2743b32
+4	149	7000204390222556	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+151	276	7000204391423198	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+278	410	7000204392825215	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+412	1023	7000204398723938	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	144	7000204602227474	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+145	268	7000204603477314	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+269	400	7000204604883175	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+2	606	7000204666147907	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	138	7000204818755647	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/lcd.pbi	ec9f3d31c2743b32
+140	271	7000204820102524	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+271	396	7000204821349387	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+397	1004	7000204827247176	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+1	144	7000205332935737	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+145	273	7000205334168067	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	2df7f33e95fd9aae
+274	400	7000205335417758	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+401	1021	7000205341510205	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	63	7000205590000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/tim7_fnd.xcl	eff697c0f3f363c0
+5	142	7000205597386991	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	b5b58a7f6b2a5c6f
+63	193	7000205597885640	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/STM32/tim7_fnd.pbi	518a01f1003630bd
+195	344	7000205599390408	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part2.pbi	1cf8b3308abeaa72
+346	476	7000205600737616	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+477	1108	7000205606739892	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+2	142	7000207621813229	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/main.pbi	4519eedccb1b1b0a
+144	268	7000207623113725	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2_part3.pbi	b5b58a7f6b2a5c6f
+269	394	7000207624413901	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbd	5ebff917dd9e528f
+396	1027	7000207630511045	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/BrowseInfo/sampleUart2.pbw	39cf6e6178059fdf
+43	130	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	8383cd80c5ea74e
+46	133	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	5320d2d7cb9f5008
+49	139	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/misc.xcl	68e46822bca62bf6
+51	143	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	27038f88a0d3101
+133	203	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	b6bdd36c69407093
+130	206	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	a837be8e88442cc4
+139	218	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	6ce248846dde8098
+144	220	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	e0445c7a593de5dd
+203	268	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	716730b6f306d979
+206	275	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/key.xcl	62fe7eeddfc1ac16
+218	284	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/tim7_fnd.xcl	cb2f17cfa8a1ab33
+221	287	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	b4980cd0c30687b1
+285	331	7000211159374870	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	f48c5999a5820b25
+268	349	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/lcd.xcl	1bfc7f20a0c66a59
+275	360	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/adc1.xcl	3e73df3d024bf666
+287	375	7000211150000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim10_motor.xcl	8f55546522c835dd
+331	400	7000211160000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/uart4.xcl	9985fe746b3b2660
+350	416	7000211160000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.xcl	c52bc7aec0effecf
+361	428	7000211160000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/uart2.xcl	d75dd785fd12ccc1
+375	440	7000211160000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.xcl	b5c33266ff6be99b
+400	544	7000211161561853	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	387675c28a7e7333
+416	567	7000211161718065	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	46f9401370e0a426
+428	587	7000211162030495	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	45d0b757493eb4c4
+440	600	7000211162186704	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	5fb3e25025eb159
+567	699	7000211163123983	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	44215944f95cfd52
+587	718	7000211163280198	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/adc1.pbi	592c69b2c8f41e4a
+601	730	7000211163436413	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	baa7bd2d4da8daf5
+544	786	7000211163905050	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/misc.pbi	d8da026b0864d7f1
+700	836	7000211164529900	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	830677b01768a8b1
+719	852	7000211164686113	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/tim7_fnd.pbi	76fbc86afe03971
+731	878	7000211164842326	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	70e56cdb47517677
+787	917	7000211165310965	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/uart4.pbi	7ed86977bfb03af6
+836	967	7000211165779609	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/key.pbi	bad3da91b8e2b269
+879	1011	7000211166248247	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim10_motor.pbi	f8b0ebddd4aa82b3
+918	1051	7000211166560674	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/lcd.pbi	84779055c4fbb68b
+852	1086	7000211167029311	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/uart2.pbi	90ab354c7349d6aa
+968	1116	7000211167341744	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+1012	1148	7000211167654169	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+1052	1188	7000211167966594	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part2.pbi	c3a20c6449397d8a
+1087	1219	7000211168279018	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part1.pbi	6bb41faf0d75414a
+1117	1249	7000211168591441	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+1148	1250	7000211168591441	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+1189	1291	7000211169060087	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part0.pbi	d1e0d92b3901dfe3
+1292	1422	7000211170309783	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+1424	2050	7000211176402096	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	128	7000212992025294	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+130	226	7000212992962573	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+228	356	7000212994212935	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+358	985	7000213000305238	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	130	7000213455587963	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+133	227	7000213456681452	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+228	352	7000213457931162	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+354	975	7000213463867252	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	129	7000214271766665	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+131	225	7000214272703946	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+227	354	7000214274109218	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+355	968	7000214279889742	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	128	7000214331918794	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+129	225	7000214332855416	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+226	354	7000214334105119	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+355	960	7000214340041221	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	134	7000214391964497	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+135	232	7000214393057982	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+233	361	7000214394307697	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+362	970	7000214400244496	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	147	7000215006346537	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+149	278	7000215007596235	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+278	410	7000215009002744	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+2	612	7000215069466682	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	131	7000220965427072	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+134	233	7000220966521220	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+234	364	7000220967770274	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+366	982	7000220973706970	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	134	7000221277849643	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+135	232	7000221278901310	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+234	366	7000221280249262	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+368	985	7000221286245480	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	142	7000221791642387	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+143	268	7000221792840082	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+268	397	7000221794189714	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+2	606	7000221856514401	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	128	7000222311369090	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+130	225	7000222312318335	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+226	351	7000222313570740	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+353	979	7000222319640578	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	134	7000223278331891	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+135	236	7000223279348627	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+236	362	7000223280579224	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+362	982	7000223286528213	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	144	7000223792750759	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+145	268	7000223794001868	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+269	393	7000223795249195	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+395	1009	7000223801149094	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	130	7000224106109476	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+131	225	7000224107046700	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+226	350	7000224108452088	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+351	956	7000224114232485	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	139	7000226584792763	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+141	242	7000226585797222	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+243	368	7000226587039652	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+369	986	7000226592991333	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	130	7000228661244289	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim1_counter.pbi	bae9d28c0a7afb28
+132	231	7000228662244093	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	e51439744cccc7f9
+234	364	7000228663594318	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+366	977	7000228669521586	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+5	78	7000229097774611	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	1a0bab9127e2693
+3	148	7000229098477064	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+150	274	7000229099664158	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+275	407	7000229100929190	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+409	1033	7000229107087074	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	61	7000229340000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim4_counter.xcl	ab0938a07922a1b7
+62	190	7000229342192897	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim4_counter.pbi	2e5fc73f498b0864
+191	291	7000229343130829	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	b58d692ef99d182d
+293	417	7000229344536096	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+419	1036	7000229350451134	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+2	134	7000229503246594	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim4_counter.pbi	2e5fc73f498b0864
+5	150	7000229503447456	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/main.pbi	77d4f0d6c547b6ca
+135	234	7000229504346735	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	b58d692ef99d182d
+151	278	7000229504743915	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	db678fbd402c12c1
+279	405	7000229506045038	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+407	1023	7000229511979109	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	128	7000229664883218	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim4_counter.pbi	2e5fc73f498b0864
+130	225	7000229665976779	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	b58d692ef99d182d
+226	350	7000229667226503	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+352	955	7000229673005714	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	131	7000229876092016	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/tim4_counter.pbi	2e5fc73f498b0864
+132	228	7000229877028653	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	b58d692ef99d182d
+230	358	7000229878434826	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbd	f8c1ba4b6f475510
+360	974	7000229884382580	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_counter/Debug/BrowseInfo/sampleUart2.pbw	4f2e21280bed2a60
+1	72	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	940e7c0713d30bf9
+6	79	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.xcl	e5647bc11c2a92ce
+9	83	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	ee1ce749e4c2e59f
+11	86	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	4968efee22ad89d6
+72	139	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	cfe9cf1274e1e784
+80	151	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	8e1981068418f005
+86	156	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	8fc30b8f1d25ebf0
+83	186	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	a88d89511616197
+139	213	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	5bc7792e31cc72bc
+151	227	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	f70579f6b8e02188
+156	230	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.xcl	579f218a24f17c63
+186	263	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.xcl	158bf49122c5c36d
+214	282	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.xcl	9d3ab39b306a046c
+263	287	7000230988196527	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	9a6b87fd487896d2
+228	297	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.xcl	e6b5a041a402178f
+231	325	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.xcl	898cea3af143d398
+283	358	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.xcl	c90dcaa97bc554e1
+297	380	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.xcl	3d3e6db4fe5ee8f7
+325	402	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.xcl	4bc985d9d6a6cb34
+359	421	7000230980000000	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.xcl	621dabe053fe0502
+288	445	7000230989758668	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	7ffca2b8a5ea792b
+380	534	7000230990539729	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	612ae9d5750c531b
+422	562	7000230990852151	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	a4f68e26913e9436
+446	579	7000230991008366	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	eb411086a2d0d4a3
+403	645	7000230991789439	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.pbi	78b6a0c3a7914ebc
+535	667	7000230991945648	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	24d9ff965d823db1
+562	693	7000230992258073	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	72d9ad52b5818d07
+646	776	7000230993039135	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.pbi	f259651147e4f73d
+668	798	7000230993195352	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.pbi	95394acea2c16eee
+580	822	7000230993507779	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	93d9b684e08594a3
+694	926	7000230994601781	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.pbi	ccb8bf64a2a3f44
+777	929	7000230994601781	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	3bf04972c78d0aac
+799	937	7000230994601781	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	9e78b9584d85cd88
+823	964	7000230994914287	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.pbi	5eecd77f56f1999d
+927	1070	7000230996007196	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+965	1073	7000230996007196	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part0.pbi	4356f9d53180f24b
+930	1077	7000230996007196	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.pbi	1e2ed4c3fc921aba
+938	1079	7000230996007196	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.pbi	5bfca3564df7bedc
+1071	1204	7000230997256888	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.pbi	74e5b48779c2eec8
+1077	1209	7000230997413101	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part1.pbi	24735a03178d1af0
+1074	1211	7000230997413101	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part2.pbi	88709b1dc581a541
+1080	1214	7000230997413101	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	9eb8ce185d20f00a
+1205	1304	7000230998350892	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+1	133	7000231050603764	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+134	748	7000231056501971	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	129	7000231511951674	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.pbi	ccb8bf64a2a3f44
+130	260	7000231513252259	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	9eb8ce185d20f00a
+263	395	7000231514600675	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+397	1014	7000231520598360	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	134	7000231874548032	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.pbi	ccb8bf64a2a3f44
+136	264	7000231875946734	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	9eb8ce185d20f00a
+266	396	7000231877244046	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+398	1018	7000231883242307	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	147	7000240487098626	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+149	271	7000240488345162	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+273	423	7000240489847461	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+424	1727	7000240502694096	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	133	7000240705920531	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+134	233	7000240706917854	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+234	366	7000240708267232	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+367	1018	7000240714570388	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	134	7000241169893649	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+136	235	7000241170896657	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+237	369	7000241172269717	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+371	990	7000241178263219	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+1	132	7000242540711060	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+133	232	7000242541708547	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+233	362	7000242543007943	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+365	992	7000242548986947	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	130	7000242903386160	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+132	230	7000242904387922	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+3	129	7000242956952836	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+130	726	7000242962732720	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	130	7000243065130236	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+131	227	7000243066223683	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+229	357	7000243067473386	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+359	973	7000243073409019	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+1	135	7000243528480809	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+137	236	7000243529529411	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+238	369	7000243530829870	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+370	987	7000243536828595	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+2	129	7000243740216620	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	ee79db87f5170f71
+131	230	7000243741310765	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	5c73a69b8781a3b0
+231	358	7000243742560319	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	48b2dd7455548805
+360	980	7000243748588455	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	88b0d11810709708
+46	346	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	d6b6069060de7ff1
+41	350	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	eb1bdc104adb7530
+17	353	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	ee7052f0f6d7a92e
+37	370	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.xcl	975091e581ce8a8d
+347	473	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	2b6744a0f604f41f
+353	482	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	8724b4e5b4b71def
+371	497	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	2536ae1b3f98dd37
+350	511	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	a71a42059a26be6
+473	598	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	49e111d0a19b671b
+482	607	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.xcl	61619307a7f28d0f
+498	624	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.xcl	9eb45616df1e1236
+512	640	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.xcl	325ec9118263b21
+598	742	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	16100f3e191935f6
+608	758	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.xcl	bd2d6d628de59a84
+624	777	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.xcl	bc3efd7f380a2720
+640	793	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.xcl	b94660fc34c2bc2a
+743	810	7000244565715178	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	b6948afe7fe34a17
+759	895	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.xcl	fff1cfc9a496435c
+778	907	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.xcl	8087c5f89fe45730
+810	932	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.xcl	fc1c8671ee918f8d
+794	958	7000244567277307	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	456af6b50408dafa
+896	1045	7000244568058375	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.pbi	1c77e8340fbbaf71
+907	1066	7000244568370799	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	be1630b6eda2952c
+932	1082	7000244568527011	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	ffc97efa4090e824
+959	1111	7000244568683225	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	228b365c2377202e
+1046	1191	7000244569620965	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	888ad2fd044433a6
+1066	1216	7000244569776719	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	3e0e5192b8e22ed1
+1083	1243	7000244570089143	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	52f3f367d9c8879d
+1112	1255	7000244570245356	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.pbi	5371479c2924609e
+1191	1331	7000244571026440	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.pbi	b0dbd1957c230c6c
+1216	1362	7000244571182641	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	ce7c2bde6928a69e
+1244	1385	7000244571495062	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.pbi	7fba56a595037ff5
+1255	1395	7000244571651279	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.pbi	6ef37dcc1bfe129b
+1332	1470	7000244572276128	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.pbi	5758d40fdb546db9
+1386	1525	7000244572900980	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.pbi	7eb6c65f1f439685
+1362	1603	7000244573682069	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	30859034b20f8361
+1471	1611	7000244573682069	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.pbi	bd0e3711b1338254
+1526	1649	7000244574150686	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part0.pbi	c12dd54f94d3eaca
+1396	1653	7000244574150686	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+1611	1714	7000244574775546	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	fe38eda9b67caf39
+1605	1741	7000244575087978	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part2.pbi	80d7169c99610be3
+1649	1779	7000244575400407	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part1.pbi	ef84d884ffb13614
+1654	1786	7000244575557055	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	471e7cb10474bab1
+1787	1916	7000244576806830	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+1918	3247	7000244589928438	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+5	122	7000250410000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim7_fnd.xcl	c4e46367e018940b
+15	164	7000250412308265	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part2.pbi	a7b4486a880e2441
+13	165	7000250412308265	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	30859034b20f8361
+10	177	7000250412463890	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+124	268	7000250413401751	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim7_fnd.pbi	e3626d8088047f2d
+178	311	7000250413713812	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+269	371	7000250414338463	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	f7853570c129fcc8
+372	502	7000250415744879	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+504	1171	7000250422149748	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+6	145	7000250777056855	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	30859034b20f8361
+3	156	7000250829144464	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+158	287	7000250830393958	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+287	418	7000250831800614	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+419	1049	7000250837838397	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	154	7000251495879147	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+156	281	7000251497128986	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+281	410	7000251498378694	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+411	1041	7000251504470940	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	152	7000252717731687	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+154	279	7000252718981491	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+281	410	7000252720387274	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+411	1053	7000252726603136	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	155	7000252778966662	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+157	282	7000252780372515	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+284	415	7000252781621569	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+416	1064	7000252787870101	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+3	113	7000253110000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/led.xcl	220e9afa8b6e26de
+7	139	7000253114113242	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	1e2ff765693dbe0
+114	249	7000253115207104	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/led.pbi	371d80ba69ba6fa9
+251	379	7000253116612999	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	e7bb93645375eb22
+380	522	7000253118018762	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+524	1175	7000253124267517	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+3	107	7000253327750979	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	fe38eda9b67caf39
+108	241	7000253329186872	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+241	872	7000253335264729	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+3	187	7000267060047816	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+188	343	7000267061609840	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	e7bb93645375eb22
+343	491	7000267063015152	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+493	1799	7000267075825048	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+3	146	7000267208593166	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	1e2ff765693dbe0
+148	277	7000267209842081	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+279	919	7000267216091252	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	109	7000267369486949	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	f7853570c129fcc8
+6	137	7000267369643442	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+139	268	7000267371049222	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+269	902	7000267377141519	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	156	7000388619595015	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+158	290	7000388621000793	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+291	423	7000388622250684	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+425	1092	7000388628811604	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	155	7000388782056715	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+157	287	7000388783462495	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+288	419	7000388784712131	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+421	1064	7000388790960218	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	155	7000388893781403	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+156	285	7000388895031035	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+286	421	7000388896436304	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+422	1069	7000388902685363	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+3	160	7000389257586514	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+162	299	7000389258992367	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+301	440	7000389260397704	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+443	1098	7000389266802887	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	160	7000389722633136	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+161	296	7000389724039042	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+298	436	7000389725444968	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+437	1079	7000389731537341	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+2	154	7000390440588202	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+156	281	7000390441838696	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+283	411	7000390443244338	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+413	1055	7000390449492359	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+93	453	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.xcl	ef3acc38df823a92
+72	456	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	4457139125db4f80
+96	461	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	bc791381716b1848
+100	473	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	edbaf4b21cd8e57e
+453	580	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	6eeb6d67bbc8948e
+458	593	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	5bfbb19b065a73a9
+462	597	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	897e985ef089ee92
+475	601	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	1d257f27bff9b65
+581	707	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	af6b89f5ef0b71ff
+593	728	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	46664400f31fd21
+601	733	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	c7a23f548a157197
+597	737	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	74a2d0409a1b3248
+707	834	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	82cfa19b199cf324
+728	860	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	c968092968b79b53
+733	864	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	a4e4407888895a98
+738	870	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	76e3fc861b18fa67
+834	888	7022078540653189	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	225ea6d502ae4148
+865	1002	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	e5f6bfd544662b18
+870	1014	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	a7697f83e8e1672d
+889	1026	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	26645375a9fabbd2
+861	1034	7022078542059099	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	bf65dae5481e9c2f
+1003	1163	7022078543308805	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	f09d8f58a37116d1
+1015	1167	7022078543308805	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	10ee8ab50ec256f2
+1026	1182	7022078543465018	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	3ec9099c28092b66
+1034	1185	7022078543621233	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	165ac174c300f3ee
+1168	1312	7022078544870936	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.pbi	20f1b3239f2a7a74
+1182	1332	7022078545027149	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	20f7ce57c2203db8
+1186	1343	7022078545183372	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1464596e073949aa
+1164	1418	7022078545964436	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	5fa1573480881608
+1314	1459	7022078546276861	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	89da3bedcab2a407
+1345	1491	7022078546589283	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	be5e836df0f5e787
+1419	1566	7022078547370348	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	f015b77e9737133
+1332	1610	7022078547838987	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	e76af03d594343e8
+1460	1614	7022078547838987	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	2ed0115544226cf4
+1492	1634	7022078547995202	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	b5e8fe665d003ca5
+1567	1716	7022078548932498	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	6b6e3ab884315ef3
+1611	1753	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	af26de4821d35485
+1635	1757	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	9d763c7cd7bc9a67
+1615	1761	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	27efd9609c3292fc
+1716	1850	7022078550182187	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1915fdf5ef73055d
+1761	1865	7022078550338401	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part4.pbi	c5e3282f75b14102
+1753	1888	7022078550650827	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	f102928c398ea134
+1758	1894	7022078550650827	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	9e9f982407c7e083
+1894	2026	7022078551900539	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	a24b73bd5dae79bc
+2027	2794	7022078559398776	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	bbe1d4e688f3b930
+62	264	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5e72b1025010236c
+101	292	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	98fb6cf7e88b6ab1
+270	471	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	9d76416f107cdc1d
+302	510	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	bf91e3b88d23821f
+480	704	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	1a26dbae18bc90fd
+520	732	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	7018ce0bf2217912
+715	885	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	bbac2af03830ebff
+742	920	7022911750000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	6c54b35aa6390812
+889	1050	7022911760000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	2ed4e6681a53da3f
+1056	1138	7022911790006910	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	c1bd9edde18934ab
+925	1333	7022911792015523	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	e1e34aa1824a8156
+1142	1521	7022911793905322	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	b9357f5917282e0c
+1336	1554	7022911760000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	913946410b8b0784
+1525	1694	7022911760000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	9302fe516957f34c
+1560	1958	7022911798268055	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	6aebf4112ba0f74e
+1701	2138	7022911800060688	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	ce4375c98930c488
+1963	2329	7022911801835301	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	cceeff8cdc11b8b2
+2139	2494	7022911803644596	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+2331	2806	7022911806750108	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+2497	2929	7022911807988752	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	f99304216248fa20
+2809	3204	7022911810721842	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+2932	3647	7022911815171396	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	2b6e652658634da0
+3207	4012	7022911818289484	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+3650	4543	7022911824128172	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	5837300bc74b7181
+4016	5054	7022911829243648	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+4547	5303	7022911831711158	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	6dcd98635f8011ad
+5306	6221	7022911840873249	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+6224	7975	7022911858163274	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+36	561	7022912929229371	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+565	1156	7022912935188857	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+1159	2120	7022912944797542	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2124	3991	7022912963248324	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+45	489	7022913020846858	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+492	1105	7022913027058122	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1109	1644	7022913032413619	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1647	3382	7022913049538057	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+39	483	7022913107392726	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+486	921	7022913111784390	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+924	1476	7022913117351976	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1480	3252	7022913134839845	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+23	586	7022913193335613	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+589	1065	7022913198117121	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1067	1627	7022913203745415	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1630	3437	7022913221503641	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+24	588	7022913330712731	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+592	1056	7022913335412416	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1060	1602	7022913340833877	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1606	3383	7022913358204696	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+29	671	7022913721584187	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+675	1404	7022913728877904	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1407	2339	7022913738249286	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2343	4102	7022913755473984	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+19	475	7022913813260961	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+477	923	7022913817725065	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+926	1481	7022913823256815	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1485	3247	7022913840686053	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+27	532	7022914202069468	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+535	1225	7022914209023727	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1228	2164	7022914218394565	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2167	4005	7022914236476880	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+16	580	7022914295040656	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+582	1016	7022914299402203	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1020	1526	7022914304437183	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1531	3293	7022914321821715	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+30	472	7022914379387133	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+476	952	7022914384194378	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+956	1492	7022914389614844	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1494	3277	7022914407178061	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+22	481	7022914464586762	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+485	955	7022914469336389	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+959	1522	7022914474968701	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1525	3352	7022914493008774	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+72	535	7022914962172735	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+537	1234	7022914969159725	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+69	423	7022915343567193	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+65	510	7022915344461506	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+514	874	7022915348087317	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+426	916	7022915348517104	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	cceeff8cdc11b8b2
+905	1712	7022915356473382	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+920	1989	7022915359214741	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	6dcd98635f8011ad
+1715	2424	7022915363599101	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+165	984	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5aaeefbc06485352
+187	1043	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	4caaa0ad3e438caf
+590	1261	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	5fd837ad340f437f
+544	1288	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	6e6ef7323862686a
+515	1301	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	8d7cf5776248d5c8
+609	1387	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	915805ae3002b2a8
+626	1398	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	d275581e53264cbd
+570	1413	7022930790000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	7f7d05175d1ab3f4
+993	1584	7022930800000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	e4508d962c5116a6
+1052	1596	7022930800000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	781075d649fd2781
+1452	1710	7022930874849094	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	e4279dc683eaeb36
+1325	1739	7022930800000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	a2c576f72bd428b4
+1277	1929	7022930876950314	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	90fa03c0274fe158
+1297	2037	7022930878039894	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	8ab534130a5d95d7
+1410	2156	7022930879084896	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	594363b492bfc817
+1394	2210	7022930879787771	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+2202	2824	7022930885759435	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	eb32a2f0bf5610b
+1591	2904	7022930886566892	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	39cf51e6684e2820
+1650	2969	7022930887268626	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	1d98410d4bcf1b45
+1717	3196	7022930889297725	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	888d0e4b9823b2
+1745	3258	7022930889268453	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	914e7c386e0aa09e
+1936	3390	7022930890375606	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	a96dd2d3a2718699
+2051	3638	7022930891641412	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	808cabd500e2d43f
+2960	4559	7022930903262543	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+3384	4710	7022930904773521	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	711a3a49b222b7
+3734	4942	7022930906152551	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	75fce336bcb25b60
+4951	6095	7022930918671159	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+6101	8199	7022930939329749	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+175	716	7022930999688108	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	914e7c386e0aa09e
+722	1162	7022931004144220	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	711a3a49b222b7
+1169	1814	7022931010610381	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+1820	3894	7022931031099690	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+38	665	7022931601667246	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+675	1396	7022931608999427	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1405	2417	7022931619213172	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2426	4551	7022931640177509	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+82	583	7022931698845791	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	914e7c386e0aa09e
+589	1072	7022931703763296	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	711a3a49b222b7
+1078	1688	7022931709890106	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+1693	3747	7022931730171550	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+39	641	7022931841121079	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+647	1327	7022931847997776	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1334	2258	7022931857282901	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2266	4358	7022931877976525	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+72	836	7022931988589398	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	1d98410d4bcf1b45
+842	1343	7022931996113734	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	711a3a49b222b7
+1347	2221	7022932004865807	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2227	4318	7022932025506192	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+121	759	7022932086544038	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+764	1436	7022932093335214	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1439	2052	7022932099487194	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2058	4178	7022932120385907	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+32	657	7022932384933700	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+662	1382	7022932392155831	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1386	2396	7022932402274856	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2400	4536	7022932423364989	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+111	745	7022932535814965	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+752	1393	7022932542300221	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1397	2218	7022932550552499	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+2222	4335	7022932571365485	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+133	726	7022932631463380	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+735	1277	7022932636988369	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1281	1890	7022932643122362	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+1897	3981	7022932663707437	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+103	749	7022932724330541	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1288fb32ca9e70d1
+758	1288	7022932729753053	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	69fb03cccc1fe6e8
+1295	1934	7022932736210476	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ef1d14ebf3bbf15b
+1942	3999	7022932756503435	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	4b8a67e1b9f910a2
+128	398	7022999590000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	98fb6cf7e88b6ab1
+108	428	7022999590000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5e72b1025010236c
+159	505	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	bf91e3b88d23821f
+176	538	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	7018ce0bf2217912
+408	766	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	2ed4e6681a53da3f
+435	837	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	bbac2af03830ebff
+517	862	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	1a26dbae18bc90fd
+549	900	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	6c54b35aa6390812
+795	1115	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	9d76416f107cdc1d
+873	1207	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	9302fe516957f34c
+929	1285	7022999600000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	913946410b8b0784
+849	1404	7022999629131342	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	6aebf4112ba0f74e
+1161	1456	7022999629622292	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	c1bd9edde18934ab
+1225	1958	7022999634618115	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	e1e34aa1824a8156
+1304	2070	7022999635433892	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	ce4375c98930c488
+1415	2186	7022999636902539	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	b9357f5917282e0c
+1461	2392	7022999638965597	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+1983	2714	7022999642187661	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	2b6e652658634da0
+2081	2802	7022999643077982	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+2199	2886	7022999643918225	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	cceeff8cdc11b8b2
+2401	3397	7022999647891589	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	f99304216248fa20
+2908	4248	7022999657519205	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	5837300bc74b7181
+2744	4273	7022999657558246	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+2830	4329	7022999658379017	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+478	1577	7022999662821901	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+379	1588	7022999662862742	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	f99304216248fa20
+164	683	7023642225191915	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+159	689	7023642225191915	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+162	696	7023642225201670	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	cceeff8cdc11b8b2
+156	703	7023642225240714	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	ce4375c98930c488
+686	1498	7023642233308200	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	f99304216248fa20
+693	1636	7023642234737311	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+700	1767	7023642236050855	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+709	1828	7023642236647613	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	5837300bc74b7181
+96	553	7023657729725010	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	cceeff8cdc11b8b2
+78	580	7023657729725010	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+99	583	7023657729754292	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+101	789	7023657730929192	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+555	1717	7023657741377927	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	6dcd98635f8011ad
+586	1766	7023657741872384	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+810	1992	7023657744121588	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1995	3100	7023657755201840	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+3103	5242	7023657776368008	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+58	408	7023657833426663	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+62	500	7023657834307253	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+411	919	7023657838532841	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+503	1062	7023657839948620	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1065	1779	7023657847094981	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1782	3871	7023657867709407	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+33	416	7023657924650381	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	44bdfaec4bca26cb
+420	927	7023657929819703	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+932	1519	7023657935745112	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1523	3569	7023657956007670	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+46	440	7023658013297847	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+444	889	7023658017801341	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+894	1502	7023658023926319	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1504	3514	7023658043778100	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+14	469	7023730739883481	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+473	1169	7023730746907263	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+1173	2126	7023730756448741	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2129	4324	7023730778208621	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+29	411	7023757496217623	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+414	1025	7023757502378938	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+1028	1983	7023757511945080	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1986	3983	7023757531704925	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+19	511	7023764002592198	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+513	1213	7023764009635545	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+1215	2422	7023764021706494	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+26	451	7023764081445783	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+453	994	7023764086694757	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+995	1624	7023764093187780	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1626	3898	7023764115666401	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+21	429	7023768010189749	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	fdd6582065384795
+433	1047	7023768016459122	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	d9bd5f574737cb88
+1050	2102	7023768026992065	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2105	4145	7023768047051840	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+28	474	7023768104679455	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+477	1193	7023768111849304	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1197	1750	7023768117465609	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1753	3765	7023768137232463	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+35	447	7023768194699485	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+451	940	7023768199624497	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+944	1573	7023768205933346	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1577	3549	7023768225302407	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+45	599	7023768334820252	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+603	1105	7023768339912843	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1109	1717	7023768345985764	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1721	3728	7023768365844903	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+52	497	7023768475371425	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+500	1243	7023768482834947	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1245	2145	7023768491837098	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+2149	4168	7023768511814678	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+14	411	7023768568793121	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+415	933	7023768573995557	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+936	1534	7023768580031382	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1539	3595	7023768600376270	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+21	533	7023768658548747	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+536	1011	7023768663311542	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1014	1648	7023768669687911	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1651	3664	7023768689519036	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+17	435	7023768746854207	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+438	984	7023768752321007	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+988	1611	7023768758588535	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	d3dc5dcacc0a0d69
+1615	3657	7023768778747026	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	50c424a001031853
+31	554	7023768938534041	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	a252e6caaa479ffe
+557	1347	7023768946517028	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/Examples/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1d149705285c4096
+1	120	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	741aae6d41aab68e
+31	123	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	abb7242c2213d01c
+29	129	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	c99de09adc36663
+30	149	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	584b77f4392a2c87
+124	211	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	667b9e9a7b9d6d1d
+130	213	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	19e6f88557c32221
+149	225	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	6109904f0c817a56
+120	229	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	e4c51659448abe04
+211	281	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	5ed6adce1741a550
+225	294	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	7df4e153d456aeb7
+294	338	7024510638855683	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	a4385ebad41af59f
+213	374	7024510639304644	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	bc7036de6fa3026b
+230	396	7024510639529128	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	c14babe64ef9369
+339	406	7024510630000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	ea7f1ab6ea227a7d
+281	445	7024510639958597	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	98f363b27d157269
+374	554	7024510641105242	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	e9dc01de838f52da
+407	564	7024510641202844	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	4495aec3952b34e5
+397	568	7024510641241885	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	b5d5b143be83f896
+446	599	7024510641554204	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	ec08ac4f11ba32b6
+569	645	7024510642032444	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	8d50159ad040ef3c
+554	700	7024510642569244	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	5338b9280273864c
+599	701	7024510642598524	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	1237622f078d7d4d
+565	709	7024510642657089	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	df6cfebf549989e
+645	785	7024510643418365	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	9209d8ac02bd6fa0
+709	812	7024510643701406	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	fa8c5029fbb7bc66
+787	859	7024510644179649	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	6f09c103af8b2ffc
+860	961	7024510645195241	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ce2b395e798631f6
+962	1563	7024510650951877	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	ab414472c0faeb49
+2	76	7024511770000000	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.xcl	ea579d430087fdde
+5	116	7024511777140762	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1a02ecf90c13b170
+4	117	7024511777140762	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	150329b322b231d2
+6	118	7024511777160283	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	eef81df0e5a61cf3
+76	218	7024511778146630	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.pbi	fe3b90ae90738f0
+218	292	7024511778907325	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	b68151eef58d05f8
+293	391	7024511779893095	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	ce2b395e798631f6
+391	1019	7024511785931783	C:/Users/KCCI08/Documents/iar/project/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	ab414472c0faeb49
+7	93	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	a28d419664ae9093
+10	97	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	8a872b6a0cd32a96
+8	98	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	58f24b665bdf5f0c
+5	115	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	e81d6beea74dcb77
+94	175	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	b147f555099719e5
+97	178	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	12ae637db48f8858
+99	180	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	916dc33ce3aaf125
+116	189	7024512000000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/main.xcl	9aedbe232e7f3a15
+175	258	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/adc1.xcl	b0045dd3ff956300
+178	263	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/key.xcl	3a92f556461793ab
+181	268	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	da5e9df24b52a92a
+190	270	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/lcd.xcl	6f5b8df0fdafcc69
+263	288	7024512010471867	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	aea4e8e7196d49a8
+258	327	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	42c9ffb33461f97b
+271	345	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/uart2.xcl	305e52019bc69671
+289	356	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim7_fnd.xcl	c9014ba5652457e9
+268	366	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim4_counter.xcl	e619c937be7b419c
+327	392	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/uart4.xcl	e582b6cb11eb8b43
+345	409	7024512010000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim10_motor.xcl	20697754766cd042
+357	505	7024512012638591	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	5c32d8a1b9107ddf
+367	520	7024512012784995	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	89f627dcee907c47
+393	541	7024512012999718	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	9994a101a243366c
+410	558	7024512013165635	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	39016c2f43ad45c4
+521	668	7024512014273708	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	fe6eb2e2933880d7
+506	672	7024512014302990	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/main.pbi	ee9ca415f98d581b
+541	693	7024512014527469	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	1941a700b326b5b1
+559	800	7024512015591311	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/key.pbi	b00afe385923367c
+669	810	7024512015688913	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/adc1.pbi	d71f89341e697cc3
+672	831	7024512015893874	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	d72906a7fcd14bc8
+694	834	7024512015932913	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	2b80defad3a50474
+810	915	7024512016752754	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part0.pbi	eab95967aa02e6fb
+801	946	7024512017045562	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/lcd.pbi	a06549094f952ddc
+832	980	7024512017377395	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim7_fnd.pbi	db7c3b027d569e92
+835	982	7024512017367636	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim10_motor.pbi	a6f5af2964b59b23
+915	1062	7024512018206995	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/tim4_counter.pbi	b3cb50213d502d09
+946	1090	7024512018490037	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/uart4.pbi	246f3109ba585a08
+982	1118	7024512018783215	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part2.pbi	2c6b3815614ed8b0
+981	1130	7024512018890579	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/uart2.pbi	fd076cf97c3c7a77
+1063	1195	7024512019554256	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part3.pbi	5c8583c26a1cbaa7
+1130	1203	7024512019642095	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part4.pbi	ae4a6084f3af543f
+1090	1226	7024512019866574	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part1.pbi	4d877b4228d12aae
+1226	1355	7024512021154906	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbd	21d9184f906701d2
+1356	2009	7024512027449053	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbw	337aa37d6d963b05
+2	70	7024512380000000	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/misc.xcl	b284bd0b6d742a8a
+6	112	7024512388726502	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part4.pbi	99d966ed67f98675
+5	141	7024512389019304	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part1.pbi	f4ff963c073e786f
+6	146	7024512389058343	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part2.pbi	359eff4d9bcccb9f
+71	212	7024512389702504	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/STM32/misc.pbi	31570f1556de0d0a
+113	242	7024512390034345	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part3.pbi	5540e2f45ff94cdc
+212	314	7024512390747404	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part0.pbi	ace29acfac39086
+315	446	7024512392054666	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbd	21d9184f906701d2
+447	1114	7024512398462486	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbw	337aa37d6d963b05
+2	199	7024532727556661	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/uart2.pbi	fd076cf97c3c7a77
+200	309	7024532728679071	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2_part4.pbi	99d966ed67f98675
+310	442	7024532730006428	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbd	21d9184f906701d2
+2	681	7024532796356293	C:/Users/KCCI08/Documents/iar/project/Debug/BrowseInfo/sampleUart2.pbw	337aa37d6d963b05
+18	127	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	679fa4ba375cd90
+23	137	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	e5fa35baca0e01d7
+26	145	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/misc.xcl	ba19c116763cad60
+30	164	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	bd0db34ce61601c1
+128	235	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	93202c6772bc0e73
+137	240	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/lcd.xcl	375d254fa4492596
+145	251	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	e40685bf94832d
+164	277	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	4ed670e70ec32937
+240	342	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	610930627f165cff
+251	352	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/key.xcl	dc89845f71988ede
+235	367	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/uart4.xcl	98ee5429b02dcd0e
+277	372	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/adc1.xcl	4465673d2d7ef7f1
+352	448	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	184be00b1d355982
+342	468	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	2f536db4e9775749
+373	481	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.xcl	5bc7087c5d4c365e
+368	486	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim7_fnd.xcl	a4e06c9fc690fe32
+449	540	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.xcl	1eca8f2628a8c28c
+469	563	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/uart2.xcl	e2a6a3290b7d1e4c
+481	570	7024562610000000	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim4_counter.xcl	2a396c3dc558d7dc
+486	659	7024562617793157	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/misc.pbi	86efb86c5e6c90c1
+540	704	7024562618242112	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	eeb733964e8984d1
+564	724	7024562618447080	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	72df3ff00dbb1d46
+570	734	7024562618534918	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	33ac6cba9901726b
+704	737	7024562618573960	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	a7a7f21622323fd4
+660	823	7024562619442588	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	401f37c949ce089a
+725	876	7024562619959871	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/key.pbi	9ed6ed3a5131d38e
+734	884	7024562620037952	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	4b81299b6b477c26
+737	907	7024562620281953	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	3919206bdd0df5ac
+824	987	7024562621072510	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	114a47597319e155
+884	1033	7024562621531233	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/adc1.pbi	e93a4d2286769d53
+876	1036	7024562621540989	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	7001d274789a89b3
+908	1062	7024562621824028	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.pbi	e66234c87e71998f
+5	161	7024562674434279	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/lcd.pbi	e2a58b37e5b22597
+2	167	7024562674444042	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim7_fnd.pbi	b05f9b3dfa7c211e
+7	170	7024562674492854	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/uart2.pbi	7064925c32d4a5c9
+9	191	7024562674736848	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+172	303	7024562675859245	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part0.pbi	5369a086073d9da3
+167	336	7024562676191077	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/uart4.pbi	800bc64c2fd6cbf6
+161	341	7024562676220359	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim4_counter.pbi	231261e1657c1620
+191	364	7024562676444835	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part2.pbi	3477b551dcbc2a6d
+303	452	7024562677352523	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part1.pbi	fbc07e4941f145
+336	452	7024562677352523	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part4.pbi	f6c1964d62ee2ab6
+342	486	7024562677694113	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+486	627	7024562679105516	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+628	1331	7024562685914273	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	141	7024568977002622	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.pbi	e66234c87e71998f
+5	158	7024568977174042	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+159	288	7024568978472878	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+290	424	7024568979837892	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+426	1070	7024568986057976	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	143	7024572559051062	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.pbi	e66234c87e71998f
+145	276	7024572560388841	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+278	410	7024572561715460	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+411	1068	7024572568068038	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	156	7024580673017561	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.pbi	e66234c87e71998f
+157	337	7024580674832917	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+337	471	7024580676170036	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+471	1127	7024580682471370	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+4	185	7024581388809023	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+187	316	7024581390117644	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+320	453	7024581391498997	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+454	1116	7024581397871338	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	147	7024588643547054	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/tim10_motor.pbi	e66234c87e71998f
+8	262	7024588644689626	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+263	393	7024588645997464	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+395	531	7024588647383379	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+532	1219	7024588653998564	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	166	7024589159427528	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+167	306	7024589160842726	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+307	447	7024589162243467	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+449	1111	7024589168635131	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	200	7024614533945483	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+202	360	7024614535555090	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+362	517	7024614537126457	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+2	641	7024614599935201	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	157	7024616363595249	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+159	291	7024616364936201	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+293	428	7024616366312358	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+430	1107	7024616372842651	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	164	7024634345639424	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+166	297	7024634346976510	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+299	433	7024634348323387	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+436	1099	7024634354751137	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	192	7024800591535663	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+192	352	7024800593146045	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+355	503	7024800594650109	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+505	1277	7024800602151944	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	155	7024801057331655	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+157	303	7024801058804061	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+306	443	7024801060229002	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+445	1084	7024801066397678	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	154	7024806400474847	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+157	291	7024806401831495	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+294	424	7024806403159329	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+426	1070	7024806409390147	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	155	7024807518442401	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+156	287	7024807519760683	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+290	424	7024807521146673	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+425	1068	7024807527340259	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	155	7024807680445070	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+157	296	7024807681840742	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+297	439	7024807683294963	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+440	1087	7024807689526134	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	158	7024820673285036	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+159	291	7024820674613699	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+292	431	7024820676019116	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+433	1090	7024820682369891	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	157	7024852888145046	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+159	285	7024852889437795	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+288	420	7024852890794420	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+421	1072	7024852897068372	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	201	7025573531109970	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+203	359	7025573532689204	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+361	512	7025573534221501	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+513	1266	7025573541521670	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	189	7026394416774573	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+190	345	7026394418348643	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+347	494	7026394419834241	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+494	1245	7026394427082714	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	153	7026395686874592	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+2	130	7026395739092677	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+132	265	7026395740440266	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+2	647	7026395801842987	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	155	7026396155737352	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+157	286	7026396157055507	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+288	417	7026396158363538	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+420	1056	7026396164505685	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+2	263	7026396473607939	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+265	391	7026396474876978	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+392	521	7026396476185043	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+523	1173	7026396482440265	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+3	152	7026397440610529	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/main.pbi	b4845fd15d907a80
+154	283	7026397441917853	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2_part3.pbi	fe395ef1d8722128
+311	444	7026397443528996	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbd	c1572e00bcd2b35a
+446	1075	7026397449600253	C:/Users/KCCI30/Documents/IAR/project/Debug/BrowseInfo/sampleUart2.pbw	6dd8968df6a475c
+179	571	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/key.xcl	4490c28e85c34930
+134	603	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	d53ce5db6817ef5
+197	627	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	4271e2aa755cbf65
+164	648	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/adc1.xcl	7c695955a39acad7
+581	812	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/lcd.xcl	2120fa9e1960b91d
+610	869	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim10_motor.xcl	194d312f69fe2809
+633	898	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim4_counter.xcl	e8532faf64330a9a
+657	925	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.xcl	db4cab05940c1d21
+845	1141	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim7_fnd.xcl	e4016cae9b15426c
+880	1200	7027220510000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart4.xcl	fe818c27ae5f83a3
+907	1545	7027220521156309	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	f1d89b93b1673681
+936	1559	7027220521205094	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/lcd.pbi	bae097ddeb6948b7
+1227	1622	7027220520000000	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart2.xcl	d6b006fa96ab0337
+1570	1770	7027220523489020	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	454440b24421ec3b
+1147	2260	7027220528378703	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/key.pbi	b9ccdef48b55803f
+1553	2574	7027220531501673	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/adc1.pbi	f3517574bdbc6752
+1630	2683	7027220532487153	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart4.pbi	8899a4ae3231a833
+1793	2804	7027220533814512	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim7_fnd.pbi	884982ad766835c2
+2270	3190	7027220537680336	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+2592	3505	7027220540344646	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim4_counter.pbi	c13d7deb0e2140ec
+2699	3653	7027220540852112	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart2.pbi	1df0c2c33893acc1
+2810	3676	7027220542403842	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim10_motor.pbi	8e1d765775bf5611
+3206	4878	7027220554515456	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+3651	4989	7027220555687234	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part0.pbi	804a78e5677ea796
+3664	5042	7027220556204640	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part3.pbi	a96875181ba2db76
+3680	5170	7027220557472736	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part2.pbi	5852e93e80935983
+5177	6055	7027220566345220	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+6060	9629	7027220601818347	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+220	811	7027220662984519	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/key.pbi	b9ccdef48b55803f
+223	893	7027220663472010	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/lcd.pbi	bae097ddeb6948b7
+225	906	7027220663872748	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/adc1.pbi	f3517574bdbc6752
+229	1026	7027220665034150	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+920	1668	7027220671544198	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part0.pbi	804a78e5677ea796
+1030	1797	7027220672870897	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1803	2450	7027220679410729	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2456	4164	7027220696246291	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+41	636	7027231215997572	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+643	1360	7027231223278036	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1365	2279	7027231232452430	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2285	4042	7027231249796438	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+51	772	7027397340549333	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+783	1814	7027397350978553	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1829	2792	7027397360813804	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2802	4620	7027397378769174	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+72	799	7027397440301893	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+807	1322	7027397445556208	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1334	1913	7027397451459781	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+1922	3728	7027397469342365	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+48	736	7027413667564084	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+741	1500	7027413675230291	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1509	2426	7027413684535625	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2436	4242	7027413702427520	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+37	633	7027557066012337	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+646	1397	7027557073734713	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1403	2355	7027557083307711	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2361	4198	7027557101428580	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+58	689	7027557367256763	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+699	1495	7027557375299633	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1509	2468	7027557385093288	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2474	4206	7027557402180459	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+134	812	7027557463190540	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+820	1306	7027557468140412	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1317	1904	7027557474165520	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+1912	3665	7027557491434599	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+53	724	7027558116624559	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+736	1478	7027558124215696	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1487	2427	7027558133608468	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2436	4206	7027558151187894	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+129	646	7027558210871795	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim10_motor.pbi	8e1d765775bf5611
+651	1316	7027558217590995	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part2.pbi	5852e93e80935983
+1321	1891	7027558223333460	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+1909	3638	7027558240487195	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+127	769	7027558301369944	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+776	1421	7027558307941487	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1430	2030	7027558314005783	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2041	3820	7027558331580027	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+59	798	7027876733860824	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+806	1620	7027876742100240	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1634	2656	7027876752457512	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2668	4505	7027876770723578	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+64	656	7027905212422519	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+667	1462	7027905220499345	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+1468	2401	7027905229904650	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbd	14670e9fcc1c06e
+2406	4194	7027905247541714	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2.pbw	60bef2234ce37654
+79	998	7027905310042619	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/key.pbi	b9ccdef48b55803f
+90	1016	7027905310884980	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/adc1.pbi	f3517574bdbc6752
+95	1031	7027905310081680	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim10_motor.pbi	8e1d765775bf5611
+84	1041	7027905310884980	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/lcd.pbi	bae097ddeb6948b7
+1013	1758	7027905318358886	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart4.pbi	8899a4ae3231a833
+1037	1853	7027905319005124	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/uart2.pbi	1df0c2c33893acc1
+1027	1893	7027905319407600	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim7_fnd.pbi	884982ad766835c2
+1045	1998	7027905320776352	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/main.pbi	d7217a756aaef8a7
+1878	3008	7027905330821467	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part3.pbi	a96875181ba2db76
+1937	3155	7027905332220511	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part0.pbi	804a78e5677ea796
+1849	3412	7027905334889619	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/tim4_counter.pbi	c13d7deb0e2140ec
+2083	3504	7027905335830812	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part1.pbi	b029482c7b1e5fbb
+251	1249	7027905337234271	//10.10.141.253/23 자율형 공유폴더/iot 프로젝트/기세준 김현경 손재원 스마트 가습기 시스템/project/Debug/BrowseInfo/sampleUart2_part3.pbi	a96875181ba2db76
