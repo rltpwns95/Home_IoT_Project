@@ -10,3 +10,9 @@
 ![image](https://user-images.githubusercontent.com/124419697/236861050-28fabb5b-f44f-44fb-894f-cd53387abb9b.png)<br><br>
 ![image](https://user-images.githubusercontent.com/124419697/236861234-b9392988-5fc1-45d9-b001-a49d48fc10ac.png)<br><br>
 ![그림9](https://user-images.githubusercontent.com/124419697/236861342-e6052ae8-ec60-4d65-b873-3180fcf17a6b.png)<br><br>
+서버접속 및 동작 영상<br>
+https://youtu.be/WkOjruT-9F8<br><br>
+아두이노 데이터 전송 및 동작 영상<br>
+https://youtu.be/3pfpoi3QsLU<br><br>
+안드로이드 접속 및 동작 영상<br>
+https://youtu.be/cypdAP4XOr4<br><br>
