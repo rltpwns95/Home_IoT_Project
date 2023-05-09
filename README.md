@@ -1,4 +1,4 @@
-# Home_IoT_Project
+# 스마트 공용 오피스 시스템
 ![그림2](https://user-images.githubusercontent.com/124419697/236860111-a3d75bd6-a475-45e8-a653-a7767d77d8bb.png)<br><br>
 ![그림1](https://user-images.githubusercontent.com/124419697/236860008-e125b35b-8da8-47ad-bf5a-a084a0980784.png)<br><br>
 ![그림3](https://user-images.githubusercontent.com/124419697/236860230-a351bd81-70a4-4cb3-b4f2-c121b4749f94.png)<br><br>
